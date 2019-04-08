@@ -1,0 +1,33 @@
+body {
+    background: lightskyblue;
+}
+header {
+    background-color: black;
+    margin-left: 130px;
+    margin-right: 130px;
+    text-align: center;
+}
+h1 {
+text-align: center;
+color: lightcyan;
+}
+
+p {
+  background-color: #f8f7f5;
+}
+
+.targetNumber {
+    padding-bottom: 10px;
+}
+.card {
+       background-color: aquamarine;
+}
+.card1 {
+    background:lightgoldenrodyellow;
+}
+.card2 {
+    background: lightgrey;
+}
+h2 {
+    text-emphasis-color: red;
+}
